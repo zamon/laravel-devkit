@@ -1,4 +1,4 @@
-# laravel devkit - simple laravel development toolkit
+# Laravel DevKit - A simple Laravel Development Toolkit
 ## Introduction
 Laravel Devkit is development toolkit that I build for fasten development, It's using pure Laravel 9.x with litle help from usable package. I hope with tools it will help me through development under Laravel framework
 
